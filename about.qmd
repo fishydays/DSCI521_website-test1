@@ -3,3 +3,7 @@ title: "About"
 ---
 
 About this site
+
+Quarto create project <project name>
+Creates a quarto project in the working directory
+
